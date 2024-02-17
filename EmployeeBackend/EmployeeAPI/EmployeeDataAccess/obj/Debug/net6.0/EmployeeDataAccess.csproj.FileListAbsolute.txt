@@ -1,0 +1,14 @@
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\bin\Debug\net6.0\EmployeeDataAccess.deps.json
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\bin\Debug\net6.0\EmployeeDataAccess.runtimeconfig.json
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\bin\Debug\net6.0\EmployeeDataAccess.dll
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\bin\Debug\net6.0\EmployeeDataAccess.pdb
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\EmployeeDataAccess.csproj.AssemblyReference.cache
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\EmployeeDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\EmployeeDataAccess.AssemblyInfoInputs.cache
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\EmployeeDataAccess.AssemblyInfo.cs
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\EmployeeDataAccess.dll
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\refint\EmployeeDataAccess.dll
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\EmployeeDataAccess.pdb
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\EmployeeDataAccess.genruntimeconfig.cache
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeDataAccess\obj\Debug\net6.0\ref\EmployeeDataAccess.dll

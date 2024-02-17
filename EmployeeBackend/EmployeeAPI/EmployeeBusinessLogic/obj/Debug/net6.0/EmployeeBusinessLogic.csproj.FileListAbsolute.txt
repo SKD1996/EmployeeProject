@@ -1,0 +1,17 @@
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\bin\Debug\net6.0\EmployeeBusinessLogic.deps.json
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\bin\Debug\net6.0\EmployeeBusinessLogic.runtimeconfig.json
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\bin\Debug\net6.0\EmployeeBusinessLogic.dll
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\bin\Debug\net6.0\EmployeeBusinessLogic.pdb
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\bin\Debug\net6.0\EmployeeDataAccess.dll
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\bin\Debug\net6.0\EmployeeDataAccess.pdb
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.csproj.AssemblyReference.cache
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.AssemblyInfoInputs.cache
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.AssemblyInfo.cs
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.csproj.CopyComplete
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.dll
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\refint\EmployeeBusinessLogic.dll
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.pdb
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\EmployeeBusinessLogic.genruntimeconfig.cache
+C:\Suraj\FullStackProject\EmployeeBackend\EmployeeAPI\EmployeeBusinessLogic\obj\Debug\net6.0\ref\EmployeeBusinessLogic.dll
